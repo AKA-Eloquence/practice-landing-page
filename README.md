@@ -1,2 +1,2 @@
 # practice-landing-page
-https://aka-eloquence.github.io/practice-landing-page/
+https://eloquence98.github.io/practice-landing-page/
